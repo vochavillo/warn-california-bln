@@ -1,4 +1,4 @@
-# warn-bln
+# warn-california-bln
 
 BigLocal News, a journalism initiative run out of Stanford University, has pulled federal WARN notice data across multiple states. The majority of the data on the BigLocal News Project was scraped or manually inputed from tables on government websites. The process for one dataset in the project -- called "California_warn_expanded_2020-03-16.csv" --  was created differently. 
 
