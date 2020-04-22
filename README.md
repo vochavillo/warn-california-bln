@@ -6,7 +6,7 @@ BigLocal News, a journalism initiative run out of Stanford University, has pulle
 
 The difference between individual WARN reports and the table data released on the EDD's website are: 
 
-1. Individul WARN reports: (California_warn_expanded)
+1. Individual WARN reports: (California_warn_expanded)
 
 -Fields: Company Name and Address, Employees Affected, Layoff Date, Local Workforce Investment Area, Contact Name and Telephone Number, Date Notice Received, Layoff or Closure, Severance, Bumping Rights, Union Representation, Union(s) Name and Address(es) representing Employees, Job Title(s) and Number of Layoffs for each
 
